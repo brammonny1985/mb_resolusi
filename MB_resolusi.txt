@@ -2,3 +2,4 @@ MB Resolusi 2024
 - Menguasai Bahasa Pemgrograman C++ dan bisa membuat program sederhana dengan C++ (Konsisten belajar C++ 1 jam sehari)
 - Belajar PHP, mysql (Buat halaman Login) (Konsisten Belajar PHP 1 jam sehari)
 - Buat Channel Youtube untuk tutorial belajar (C++, Commandpromt, Tutorial Install Windows) = Konsisten Upload 1 Vidoe per minggu.
+- Nilai A semua SKS pada semester ini
